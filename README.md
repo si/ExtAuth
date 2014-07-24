@@ -39,6 +39,7 @@ The recommended, easiest and quickest way to install ExtAuth is via Composer. To
 			}
 		}
 	```
+	
 	If you already have a composer.json file, merge the above into it.
 4. run the following command:
 	```bash
