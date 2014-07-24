@@ -29,7 +29,7 @@ The recommended, easiest and quickest way to install ExtAuth is via Composer. To
 	
 	Or, alternatively, follow the instructions at http://getcomposer.org/doc/00-intro.md#installation-nix
 3. If you don't have a composer.json file in app/ already, create one, with this as the contents:
-	```JSON
+	```
 		{
 			"require": {
 				"sc0ttyd/ext-auth": "dev-master"
